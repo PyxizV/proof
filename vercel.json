@@ -1,6 +1,7 @@
 {
   "rewrites": [
     { "source": "/gclogs3", "destination": "/gclogs3.html" },
-    { "source": "/pookielogs", "destination": "/pookielogs.html" }
+    { "source": "/pookielogs", "destination": "/pookielogs.html" },
+    { "source": "/gclogs2", "destination": "/gclogs2.html" }
   ]
 }
